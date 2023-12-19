@@ -45,9 +45,10 @@ CSVValidator is a robust tool designed to validate the structure and content of 
 ### Installation
 - Clone the repository: `git clone https://github.com/UncommonDLL/CSVValidator.git`
 - Navigate to the project directory.
-- Run Command Prompt `CSVV\Scripts\activate`
+- Run Command Prompt & Command `python -m venv venv`
+- Run Command `venv\Scripts\activate`
 - Install dependencies with `pip install -r requirements.txt`.
-- Run `setup.py` to install the CSVValidator package.
+- Run `main.py` to install the CSVValidator package.
 
 ### Executing Program
 - Use the command line to run `main.py` or execute the `CSVValidator.exe` for a GUI experience.
