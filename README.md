@@ -9,7 +9,7 @@
 ---
 
 ## Description
-CSVValidator is a robust tool designed to validate the structure and content of CSV files. It checks for correct formatting, necessary headers, and validates that the data conforms to specified requirements. This tool is essential for data analysts, developers, and anyone who frequently works with CSV files to ensure data integrity before processing or analysis.
+CSVValidator is a robust tool designed to validate the structure and content of CSV files. It checks for correct formatting, necessary headers, and validates that the data conforms to specified requirements. This tool is essential for data analysts, developers, and anyone who frequently works with CSV files to ensure data integrity (email validity) before processing or analysis.
 
 ---
 
@@ -57,6 +57,7 @@ CSVValidator is a robust tool designed to validate the structure and content of 
 ## Usage
 - For CLI, run `python main.py -f "yourfile.csv"` to validate a CSV file.
 - For GUI, simply open `CSVValidator.exe` and select the CSV file you wish to validate.
+![csvvalidatorIMG](https://github.com/UncommonDLL/CSV-Validator/assets/66509625/e23ab845-a413-485e-b7ac-93ca57110423)
 
 ---
 
