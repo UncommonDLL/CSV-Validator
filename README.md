@@ -24,8 +24,7 @@ CSVValidator is a robust tool designed to validate the structure and content of 
 - [Contributing](#contributing)
 - [Versioning](#versioning)
 - [Authors](#authors)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ---
 
